@@ -1,8 +1,8 @@
 # React Firebase Chat App
 
-This project utilizes React and Firebase to create a chat application.
+This project utilizes React and Firebase to create a chat application.   
 
-## Getting Started
+## Getting Started      
 
 Follow these steps to set up and run the project locally:
 
