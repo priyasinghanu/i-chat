@@ -1,6 +1,13 @@
 # React Firebase Chat App
 
-This project utilizes React and Firebase to create a chat application.   
+This project utilizes React and Firebase to create a chat application.    
+
+*Compny*: CODTECH IT SOLUTIONS    
+*NAME*: Annu Priya      
+*INTERN ID*: CT08RKN       
+*DOMAIN*: FRONTED END DEVELOPER       
+*DURATION*: 4 WEEKS      
+## CODE DESCRIPTION OR WEBSITE       
 
 ## Getting Started      
 
