@@ -7,7 +7,14 @@ This project utilizes React and Firebase to create a chat application.
 *INTERN ID*: CT08RKN       
 *DOMAIN*: FRONTED END DEVELOPER       
 *DURATION*: 4 WEEKS      
-## CODE DESCRIPTION OR WEBSITE       
+## CODE DESCRIPTION OR WEBSITE  
+![Image](https://github.com/user-attachments/assets/1d0c12e2-79f0-4a46-8d5d-1b4bd64a201d)
+
+![Image](https://github.com/user-attachments/assets/30b772b9-3b23-4c8d-b63b-9c5d478fa40e)
+
+![Image](https://github.com/user-attachments/assets/3cf3b489-dfb0-4ac1-a3ee-ed0ed0c80302)
+
+![Image](https://github.com/user-attachments/assets/879010e5-e08f-49cf-9e45-9e12461e59c2)
 
 ## Getting Started      
 
